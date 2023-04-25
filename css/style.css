@@ -385,7 +385,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 32px 0;
-	color: #674ea7;
+	color: #FF0000;
 }
 
 .title h2 {
@@ -395,7 +395,7 @@ img {
 	margin: 0;
 	padding: 0;
 	font-size: 24px;
-	color: #e25c67;
+	color: #FF0000;
 	line-height: 1;
 }
 
@@ -404,7 +404,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #674ea7;
+	color: #FF0000;
 	margin: 16px;
 	text-align: center;
 }
@@ -414,12 +414,12 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
-	color: #674ea7;
+	color: #FF0000;
 	margin-top: 5px;
 }
 
 .title p {
-	color: #564861;
+	color: #FF0000;
 	margin: 30px 0 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -474,7 +474,7 @@ body {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #674ea7;
+	background-color: #FF0000;
 	border-radius: 16px;
 	text-align: center;
 	color: #fff;
@@ -513,25 +513,25 @@ body {
 }
 
 .minutes {
-	background-color: #874562;
+	background-color: #498745;
 }
 
 .seconds {
-	background-color: #145689;
+	background-color: #4bc914;
 }
 
 .date {
-	color: #874562;
+	color: #FF0000;
 	font-weight: 900;
 }
 
 .place {
-	color: #874562;
+	color: #FF0000;
 	font-weight: 900;
 }
 
 .footer {
-	color: #564861;
+	color: #FF0000;
 	text-align: center;
 	font-size: 16px;
 	margin: 24px;
@@ -557,7 +557,7 @@ a {
 }
 
 .happiness {
-	color: #874562;
+	color: #FF0000;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
@@ -565,7 +565,7 @@ a {
 }
 
 .twitter {
-	color: #874562;
+	color: #FF0000;
 }
 
 .music {
